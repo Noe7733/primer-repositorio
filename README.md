@@ -1,2 +1,0 @@
-# primer-repositorio
-Primer repositorio
